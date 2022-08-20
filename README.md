@@ -12,7 +12,7 @@ In this lesson we created:
 
 We are going to learn how to interact with the protocols
 
-*FORKING A NETWORK TO OUR LOCALHOST*
+*Forking a netowrk to our localhost*
 
     Pros: quick, easy, resemble what's on mainnet
     Cons: we need an API, sone contracts are complex to work with
